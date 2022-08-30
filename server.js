@@ -51,7 +51,7 @@ app.delete("/api/notes/:id", function (req, res) {
 
 // Access files in public folder
 
-app.use(express.static("public"));
+app.use(express.static("./public"));
 
 // Routes to HTML page
 
