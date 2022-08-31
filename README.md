@@ -2,7 +2,16 @@
 
 [![license](https://img.shields.io/static/v1?label=license&message=MIT&color=yellow)](https://opensource.org/licenses/MIT)
 
-## Description of Applicaiton
+## Table of Contents
+
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Screenshot of Application Running](#screenshot)
+- [Contributors](#contributors)
+- [License](#license)
+
+## Description
 
 This application was created for users to be able to have the functioinality to wite in notes, and as well as able to save and delete notes.
 
@@ -12,7 +21,18 @@ As a user, I want to be able to write and save notes
 I want to be able to delete notes I've written before
 so that I can organize my thoughts and keep track of tasks I need to complete
 
+## Acceptance Criteria
+
+![Screenshot](./public/assets/acceptanceriteria.png)
+
 ## ScreenShot
+
+![Screenshot 1](./public/assets/screenshot1.png)
+![Screenshot 2](./public/assets/screenshot2.png)
+
+## Contributors
+
+Han Zhang
 
 ## License
 
